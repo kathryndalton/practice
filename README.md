@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Practice Page heading
 
 You can use the [editor on GitHub](https://github.com/kathryndalton/practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,6 +10,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+```
+
+```{bash}
+pwd
+cd ..
+ls
+```
+
+```{r}
+head(a)
+```
 
 # Header 1
 ## Header 2
